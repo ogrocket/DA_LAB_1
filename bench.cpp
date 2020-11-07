@@ -34,7 +34,6 @@ int main(){
 
     std::cout << "Number of lines in test " << data.Size() << " \n";
 
-
-	return 0;
+    return 0;
 }
 
